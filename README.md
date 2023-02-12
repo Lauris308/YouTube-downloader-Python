@@ -2,6 +2,6 @@
 Downloads youtube videos/audio/playlists to given location
 
 ToDo:
-1. make executable
-2. add to autorun
-3. polish code
+1. add interface
+2. make executable
+3. add more features
